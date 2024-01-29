@@ -1,4 +1,4 @@
-<h1>Projeto GTA</h1>
+<h1>Projeto GTA :video_game:</h1>
 <h3>:pencil2:Descrição:</h3>
 <p>O projeto consiste em uma Landing Page do jogo GTA, utilizando as tecnologias HTML, CSS e JavaScript</p>
 
